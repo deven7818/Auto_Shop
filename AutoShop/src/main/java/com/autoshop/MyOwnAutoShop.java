@@ -1,8 +1,12 @@
 package com.autoshop;
 
 /**
- * 
- *
+ * PROCEDURE
+ * 1. Creating My own Car Shop 
+ * 2. Calculating discount of sedan car according to length
+ * 3. Calculating sale price of Ford from sale price capture from car class subtracting from manufacture discount
+ * 4. Calculating car price
+ * 5. Calculating Truck price according to weight
  */
 public class MyOwnAutoShop
 {
